@@ -5,7 +5,7 @@ body,html{
     background-color: white;
     
 }
-html{background-image: url(/img/Pic6.jpg);}
+
 
 
 h1, h2,p {
@@ -51,7 +51,11 @@ a:hover{
     
     background-color:white;
     width: 100%;
-    height: 800px;
+    height: 600px;
+    background-image: url(/img/pic7.jpg);
+    background-position: center;
+  
+    background-size: cover;
 
     
 
@@ -60,9 +64,7 @@ a:hover{
 .hello{
     text-align: center;
     font-size: 500%;
-   
-    
-    
+
   
 }
 .underhello{
@@ -74,7 +76,7 @@ a:hover{
 .pg2{
     
     width: 100%;
-    height: 600px;
+    height: 400px;
     
     
 }
@@ -84,6 +86,7 @@ a:hover{
     float: left;
     font-size: 120%;
     background-color: thistle;
+  
 }
 .s3{
     width: 50%;
@@ -91,12 +94,15 @@ a:hover{
     float: right;
     font-size: 120%;
     background-color: yellow;
+    
    
 }
-.myself{
-    width: 400px;
-    clip-path: circle();
-  
+.se3{
+    background-color: yellowgreen;
+}
+footer{
+    background-color: coral;
+    text-align: center;
 }
 
 
